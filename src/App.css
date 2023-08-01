@@ -1,0 +1,13 @@
+#spiner{
+    height: 500PX;
+    /* background-color: RED; */
+}
+#spinercenter{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+}
+#badge{
+    position: absolute;
+    right: 0;
+}

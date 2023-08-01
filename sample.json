@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+       {
+          "source": {
+             "id": null,
+             "name": "Forbes"
+          },
+          "author": "Alex Knapp",
+          "title": "InnovationRx: Scientists May Have Figured Out What's Behind Long Covid - Forbes",
+          "description": "InnovationRx is your weekly digest of healthcare news. Sign up!",
+          "url": "https://www.forbes.com/sites/alexknapp/2023/06/14/innovationrx-scientists-may-have-figured-out-whats-behind-long-covid/",
+          "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/648a537521b4fdae47b12f50/0x0.jpg?format=jpg&width=1200",
+          "publishedAt": "2023-06-15T00:02:33Z",
+          "content": "InnovationRx is your weekly digest of healthcare news. To get it in your inbox, subscribe here. \r\ngetty\r\nDoctors are still trying to make sense of long Covid, which is still impacting hundreds of tho… [+4090 chars]"
+       },
+       {
+          "source": {
+             "id": null,
+             "name": "YouTube"
+          },
+          "author": null,
+          "title": "Vaccine may double life expectancy for some brain cancer patients - NEWS CENTER Maine",
+          "description": "Glioblastoma accounts for almost half of all malignant brain tumors.",
+          "url": "https://www.youtube.com/watch?v=Net6w6nquE0",
+          "urlToImage": "https://i.ytimg.com/vi/Net6w6nquE0/hqdefault.jpg",
+          "publishedAt": "2023-06-14T23:05:52Z",
+          "content": null
+       },
+       {
+          "source": {
+             "id": null,
+             "name": "Rising Kashmir Daily English Newspaper"
+          },
+          "author": "Rising Kashmir",
+          "title": "Diabetic Nephropathy: Managing Kidney Complications in Diabetes - Rising Kashmir",
+          "description": null,
+          "url": "http://risingkashmir.com/diabetic-nephropathy-managing-kidney-complications-in-diabetes",
+          "urlToImage": "http://admin.risingkashmir.com/Source/News/7b11c2ea-7c56-4a3f-85b4-2c78f6975ed4.png",
+          "publishedAt": "2023-06-14T21:54:40Z",
+          "content": "Dr.  HASIT PATEL\r\nDiabetic nephropathy, also known as diabetic kidney disease, is a serious complication that can arise from diabetes mellitus. It is a leading cause of end-stage renal disease (ESRD)… [+3730 chars]"
+       },
+       {
+          "source": {
+             "id": null,
+             "name": "Nature.com"
+          },
+          "author": null,
+          "title": "Lab mice go wild: making experiments more natural in order to decode the brain - Nature.com",
+          "description": "Armed with technologies to track a creature’s every move, neuroscientists are gaining insights into animal — and human — behaviour.",
+          "url": "https://www.nature.com/articles/d41586-023-01926-w",
+          "urlToImage": "https://media.nature.com/lw1024/magazine-assets/d41586-023-01926-w/d41586-023-01926-w_25476292.jpg",
+          "publishedAt": "2023-06-14T20:32:19Z",
+          "content": null
+       },
+       {
+          "source": {
+             "id": null,
+             "name": "Yahoo Entertainment"
+          },
+          "author": "Caleb Naysmith",
+          "title": "Want To Slow The Aging Process And Live Longer? Studies Suggest An Energy Drink Ingredient May Be The Key - Yahoo Finance",
+          "description": "A recent study conducted on mice, monkeys and worms indicates that taurine, an amino acid commonly found in energy drinks and other foods, may hold the key...",
+          "url": "https://finance.yahoo.com/news/want-slow-aging-process-live-193436061.html",
+          "urlToImage": "https://media.zenfs.com/en/Benzinga/ef1c033fddf5829b5c5b252a23c3b287",
+          "publishedAt": "2023-06-14T19:34:36Z",
+          "content": "A recent study conducted on mice, monkeys and worms indicates that taurine, an amino acid commonly found in energy drinks and other foods, may hold the key to living longer, healthier lives. Research… [+4278 chars]"
+       },
+       {
+          "source": {
+             "id": null,
+             "name": "Dailyexcelsior.com"
+          },
+          "author": "Daily Excelsior",
+          "title": "Human brain's cerebellum affected more than other regions from Covid, study finds - Daily Excelsior",
+          "description": "NEW DELHI, June 14: The human brain’s cerebellum might be more vulnerable to Covid infections than other brain regions, a new study employing an innovated MRI technique has found. The study from Rotman Research Institute and Sunnybrook Hospital in Toronto, Ca…",
+          "url": "https://www.dailyexcelsior.com/human-brains-cerebellum-affected-more-than-other-regions-from-covid-study-finds/",
+          "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2023/06/download-44.jpg",
+          "publishedAt": "2023-06-14T18:58:27Z",
+          "content": "NEW DELHI, June 14: The human brain’s cerebellum might be more vulnerable to Covid infections than other brain regions, a new study employing an innovated MRI technique has found.The study from Rotma… [+1837 chars]"
+       },
+       {
+          "source": {
+             "id": null,
+             "name": "Telangana Today"
+          },
+          "author": "M. Sai Gopal",
+          "title": "Health and Tech: 'Diabetes, NCDs in India considerably higher' - Telangana Today",
+          "description": "Study finds 136 million people in the country could be living with pre-diabetes condition",
+          "url": "https://telanganatoday.com/health-and-tech-diabetes-ncds-in-india-considerably-higher",
+          "urlToImage": "https://cdn.telanganatoday.com/wp-content/uploads/2022/02/cropped-android-chrome-512x512-1-267x267-2.png",
+          "publishedAt": "2023-06-14T18:45:11Z",
+          "content": null
+       },
+       {
+          "source": {
+             "id": "the-times-of-india",
+             "name": "The Times of India"
+          },
+          "author": "TIMESOFINDIA.COM",
+          "title": "How to make healthy food choices while eating out - Times of India",
+          "description": "Indulging in delicacies at restaurants making you guilty? Here are a few tips to enjoy your meals when eating out.",
+          "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/diet/how-to-make-healthy-food-choices-while-eating-out/articleshow/100992954.cms",
+          "urlToImage": "https://static.toiimg.com/thumb/msid-100992919,width-1070,height-580,imgsize-1587531,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "publishedAt": "2023-06-14T18:30:00Z",
+          "content": "Tamannaah Bhatia's gorgeous saree looks"
+       },
+       {
+          "source": {
+             "id": null,
+             "name": "ANI News"
+          },
+          "author": null,
+          "title": "Study sheds more light on stem cell-based therapies for Type 1 diabetes patients - ANI News",
+          "description": "Following promising results from pre-clinical research and a recent clinical study on stem cell-based therapies for Type 1 diabetes patients, researchers are now focusing on maximising the function and potential of stem cell-based treatments for future patien…",
+          "url": "https://www.aninews.in/news/health/study-sheds-more-light-on-stem-cell-based-therapies-for-type-1-diabetes-patients20230614235222",
+          "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20230614180507.jpg",
+          "publishedAt": "2023-06-14T18:25:16Z",
+          "content": "Illinois [US], June 14 (ANI): Following promising results from pre-clinical research and a recent clinical study on stem cell-based therapies for Type 1 diabetes patients, researchers are now focusin… [+2036 chars]"
+       },
+       {
+          "source": {
+             "id": null,
+             "name": "Nature.com"
+          },
+          "author": null,
+          "title": "Could endometriosis be caused by bacteria? Study offers fresh clues - Nature.com",
+          "description": "Link to bacterial infection suggests a potential way to treat the painful disorder.",
+          "url": "https://www.nature.com/articles/d41586-023-01956-4",
+          "urlToImage": "https://media.nature.com/lw1024/magazine-assets/d41586-023-01956-4/d41586-023-01956-4_25485218.jpg",
+          "publishedAt": "2023-06-14T18:14:57Z",
+          "content": null
+       },
+       {
+          "source": {
+             "id": null,
+             "name": "Sportskeeda"
+          },
+          "author": "Ruchika M",
+          "title": "Fungal meningitis outbreak in Mexico kills 4: What you need to know to protect yourself - Sportskeeda",
+          "description": "In a distressing turn of events, a multinational outbreak of fungal meningitis has emerged, causing at least four fatalities.",
+          "url": "https://www.sportskeeda.com/health-and-fitness/fungal-meningitis-outbreak-mexico-kills-4-what-need-know-protect",
+          "urlToImage": "https://staticc.sportskeeda.com/editor/2023/06/9e174-16867643017604-1920.jpg",
+          "publishedAt": "2023-06-14T18:03:00Z",
+          "content": "In a distressing turn of events, a multinational outbreak of fungal meningitis has emerged, causing at least four fatalities. The outbreak has been traced back to medical procedures performed in Mexi… [+2442 chars]"
+       },
+       {
+          "source": {
+             "id": null,
+             "name": "Organiser.org"
+          },
+          "author": "WEB DESK",
+          "title": "Women with multiple sclerosis get better when pregnant: Study - Organiser",
+          "description": "Researchers identified the beneficial changes that occur naturally in the immune system during pregnancy. The study was published in 'Journal of",
+          "url": "https://organiser.org/2023/06/14/178883/world/women-with-multiple-sclerosis-get-better-when-pregnant-study/",
+          "urlToImage": "https://organiser.org/wp-content/uploads/2023/06/whatsapp-image-2023-06-14-at-2.17.13-pm-1-2.jpeg",
+          "publishedAt": "2023-06-14T17:32:43Z",
+          "content": "Researchers identified the beneficial changes that occur naturally in the immune system during pregnancy.\r\nThe study was published in ‘Journal of Neuroinflammation’ From an immunological standpoint, … [+4394 chars]"
+       },
+       {
+          "source": {
+             "id": null,
+             "name": "Cureus.com"
+          },
+          "author": null,
+          "title": "Awareness and Perception of Anti-obesity Medications Among Al-Ahsaa, Riyadh, and Hail in Saudi Arabia Populations - Cureus",
+          "description": "Introduction: Obesity is the most prevalent medical disease afflicting low-, middle-, and high-income nations. Hence, the use of anti-obesity drugs is gaining popularity as an adjuvant treatment for this medical condition, along with diet and lifestyle modifi…",
+          "url": "https://www.cureus.com/articles/159860-awareness-and-perception-of-anti-obesity-medications-among-al-ahsaa-riyadh-and-hail-in-saudi-arabia-populations?score_article=true",
+          "urlToImage": "https://assets.cureus.com/uploads/figure/file/636798/article_river_4df28840f62011ed8270915a0d5ac291-fig-1.png",
+          "publishedAt": "2023-06-14T17:30:12Z",
+          "content": "\"Never doubt that a small group of thoughtful, committed citizens can change the world. Indeed, it is the only thing that ever has.\"\r\nMargaret Mead"
+       },
+       {
+          "source": {
+             "id": null,
+             "name": "India Education Diary"
+          },
+          "author": "iednewsdesk",
+          "title": "U.S. FDA Approves ABRYSVO™, Pfizer’s Vaccine for the Prevention of Respiratory Syncytial Virus (RSV) in Older Adults - India Education Diary",
+          "description": "Pfizer Inc. (NYSE: PFE) announced today that the U.S. Food and Drug Administration (FDA) has approved ABRYSVO™ (Respiratory Syncytial Virus Vaccine), the company’s bivalent RSV prefusion F (RSVpreF) vaccine, for the prevention of lower respiratory tr",
+          "url": "https://indiaeducationdiary.in/u-s-fda-approves-abrysvo-pfizers-vaccine-for-the-prevention-of-respiratory-syncytial-virus-rsv-in-older-adults/",
+          "urlToImage": "https://indiaeducationdiary.in/wp-content/uploads/2022/06/Pfizer.jpg",
+          "publishedAt": "2023-06-14T17:19:29Z",
+          "content": "Pfizer Inc. (NYSE: PFE) announced today that the U.S. Food and Drug Administration (FDA) has approved ABRYSVO (Respiratory Syncytial Virus Vaccine), the companys bivalent RSV prefusion F (RSVpreF) va… [+3562 chars]"
+       },
+       {
+          "source": {
+             "id": null,
+             "name": "India Education Diary"
+          },
+          "author": "iednewsdesk",
+          "title": "New Blood Biomarker Develop To Predict If Cognitively Healthy Elderly Will Develop Alzheimer’s Disease - India Education Diary",
+          "description": "Why do some people develop Alzheimer’s disease while others don’t? And, even more puzzlingly, why do many individuals whose brains are chock-full of toxic amyloid aggregates — a telltale sign of Alzheimer’s brain pathology — never go on to develop Al",
+          "url": "https://indiaeducationdiary.in/new-blood-biomarker-develop-to-predict-if-cognitively-healthy-elderly-will-develop-alzheimers-disease/",
+          "urlToImage": "https://indiaeducationdiary.in/wp-content/uploads/2020/12/upmc_logo_og-3.jpg",
+          "publishedAt": "2023-06-14T16:49:11Z",
+          "content": "Why do some people develop Alzheimers disease while others dont? And, even more puzzlingly, why do many individuals whose brains are chock-full of toxic amyloid aggregates a telltale sign of Alzheime… [+4690 chars]"
+       },
+       {
+          "source": {
+             "id": null,
+             "name": "News-Medical.Net"
+          },
+          "author": null,
+          "title": "Using ultrasound for an effective sonodynamic treatment of orthotopic pancreatic cancer - News-Medical.Net",
+          "description": "Ultrasound is a promising technique for treating cancer. Unlike laser light, used in photodynamic cancer therapy, ultrasound waves can reach deep into tissue-;up to 12 cm-;to treat deep tumors without damaging healthy cells.",
+          "url": "https://www.news-medical.net/news/20230614/Using-ultrasound-for-an-effective-sonodynamic-treatment-of-orthotopic-pancreatic-cancer.aspx",
+          "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Ultrasound-620x480.jpg",
+          "publishedAt": "2023-06-14T16:41:00Z",
+          "content": "Ultrasound is a promising technique for treating cancer. Unlike laser light, used in photodynamic cancer therapy, ultrasound waves can reach deep into tissue-;up to 12 cm-;to treat deep tumors withou… [+3178 chars]"
+       },
+       {
+          "source": {
+             "id": null,
+             "name": "Medical Device Network"
+          },
+          "author": "Michelle Moore",
+          "title": "Core Sound promote Studycast Integration Program at ASE 2023 - Medical Device Network",
+          "description": "The Studycast programme aims to allow cardiologists to evaluate cardiac images, enhance workflow and build confidence in AI technology.",
+          "url": "http://www.medicaldevice-network.com/news/core-sound-promote-studycast-integration-program-at-ase-2023/",
+          "urlToImage": "https://www.medicaldevice-network.com/wp-content/uploads/sites/23/2022/10/Artificial-Intelligence-5-2.jpg",
+          "publishedAt": "2023-06-14T16:22:01Z",
+          "content": null
+       },
+       {
+          "source": {
+             "id": null,
+             "name": "Mathrubhumi.com"
+          },
+          "author": "Mathrubhumi",
+          "title": "Monsoon rains: High-level meeting decides to strengthen surveillance of communicable diseases - Mathrubhumi English",
+          "description": "Thiruvananthapuram: In light of the monsoon, Kerala health minister Veena George has emphasised the need to enhance surveillance against communicable diseases at the district level. The highest attention should be given to dengue fever and leptospirosis. Fiel…",
+          "url": "https://english.mathrubhumi.com/features/health/monsoon-rains-high-level-meeting-decides-to-strengthen-surveillance-of-communicable-diseases-1.8642358",
+          "urlToImage": "https://english.mathrubhumi.com/image/contentid/policy:1.8642360:1686756834/Photo%20size(1).jpg?$p=96111f5&f=16x9&w=1080&q=0.8",
+          "publishedAt": "2023-06-14T15:37:28Z",
+          "content": "Thiruvananthapuram: In light of the monsoon, Kerala health minister Veena George has emphasised the need to enhance surveillance against communicable diseases at the district level. \r\nThe highest att… [+1868 chars]"
+       },
+       {
+          "source": {
+             "id": null,
+             "name": "Slurrp.com"
+          },
+          "author": "Slurrp Desk",
+          "title": "Turmeric for Wellness: 7 Health Benefits And Culinary Uses - Slurrp",
+          "description": "Turmeric, the vibrant yellow spice found in Indian cuisine, is not only delicious but also packed with health benefits. Discover the wonders of turmeric and its role in promoting well-being. Don't miss out on the mouthwatering turmeric tomato rice recipe that…",
+          "url": "https://www.slurrp.com/article/turmeric-for-wellness-7-health-benefits-and-culinary-uses-1686754919610",
+          "urlToImage": "https://images.slurrp.com/prodarticles/juh9r69fawf.webp",
+          "publishedAt": "2023-06-14T15:23:25Z",
+          "content": "Turmeric has a rich history dating back thousands of years. It originated in India and has been an integral part of Indian cuisine, Ayurvedic medicine, and religious ceremonies. Turmeric has been men… [+4871 chars]"
+       },
+       {
+          "source": {
+             "id": null,
+             "name": "Slurrp.com"
+          },
+          "author": "Yash Lakhan",
+          "title": "Health Benefits Of Litchi And Essential Tips to Keep Them Fresh - Slurrp",
+          "description": "Bursting with essential nutrients and antioxidants, litchis are a powerhouse of goodness and fall under the tropical exotic fruit category. They are juiced and consumed as a refreshing drink in the summer, and they are used for cocktails too. They pair really…",
+          "url": "https://www.slurrp.com/article/5-health-benefits-of-litchi-and-8-essential-tips-to-keep-them-fresh-1686754927817",
+          "urlToImage": "https://images.slurrp.com/prodarticles/cfiv6naln3s.webp",
+          "publishedAt": "2023-06-14T15:13:22Z",
+          "content": "With their vibrant red skin and tantalisingly sweet taste, litchis are a delightful tropical fruit that captivates the senses. Originating from China and now cultivated in various parts of the world,… [+4391 chars]"
+       }
+    ]
+ }
